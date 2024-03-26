@@ -1,0 +1,13 @@
+go 1.22.1
+
+use (
+	.
+	./api
+	./chat
+	./comment
+	./common
+	./favor
+	./interaction
+	./user
+	./video
+)
